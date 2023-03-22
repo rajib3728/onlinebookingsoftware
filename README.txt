@@ -1,0 +1,1 @@
+Here It have splash screen .It has login page and register page and it is connected with mysql database.
